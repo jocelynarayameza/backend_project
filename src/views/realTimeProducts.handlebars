@@ -1,0 +1,29 @@
+<h1>Bienvenid@, {{user.first_name}}</h1>
+<h2>Tus datos</h2>
+
+<ul>
+    <li>First Name: {{user.first_name}}</li>
+    <li>Last Name: {{user.last_name}}</li>
+    <li>Email: {{user.email}}</li>
+    <li>Role: {{user.role}}</li>
+</ul>
+
+<form action="/users/logout" method="post">
+  <input type="submit" value="Logout">
+</form>
+
+{{#each products}}
+<div id="productsList">
+  <ul id="product-{{this.id}}">
+    <li>ID {{id}}</li>
+    <li>Nombre: {{title}}</li>
+    <li>Descripción: {{description}}</li>
+    <li>Precio: {{price}}</li>
+    <li>Stock: {{stock}}</li>
+    <li>Categoría: {{category}}</li>
+  </ul>
+</div>
+{{/each}}
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/index.js"></script>

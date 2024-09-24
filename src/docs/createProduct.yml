@@ -1,0 +1,56 @@
+paths:
+  /api/productos:
+    post:
+      summary: Creates a new product
+      tags:
+        - Productos
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - title
+                - description
+                - price
+                - thumbnail
+                - code
+                - stock
+                - category
+              properties:
+                title:
+                  type: string
+                  description: El título del producto.
+                  example: "Producto 1"
+                description:
+                  type: string
+                  description: La descripción del producto.
+                  example: "Este es un producto 1."
+                price:
+                  type: number
+                  description: El precio del producto.
+                  example: 10.000
+                thumbnail:
+                  type: string
+                  description: La URL de la miniatura del producto.
+                  example: "https://www.arsys.es/blog/que-son-las-imagenes-webp"
+                code:
+                  type: string
+                  description: El código del producto.
+                  example: "abc123"
+                stock:
+                  type: number
+                  description: El stock del producto.
+                  example: 30
+                category:
+                  type: string
+                  description: La categoría del producto.
+                  example: "Imagen"
+      responses:
+        "201":
+          description: Created product.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Product"

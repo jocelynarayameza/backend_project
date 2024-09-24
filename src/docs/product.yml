@@ -1,0 +1,42 @@
+components:
+  schemas:
+    Product:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: Id autogenerado de mongo
+        title:
+          type: string
+          description: Titulo del producto
+        description:
+          type: string
+          description: Descripcion del producto
+        price:
+          type: number
+          description: Precio del producto
+        thumbnail:
+          type: string
+          description: Url a la imagen del producto
+        code:
+          type: string
+          description: Codigo del producto
+        stock:
+          type: number
+          description: Stock del producto
+        category:
+          type: string
+          description: Categoria donde pertenece del producto
+        owner:
+          type: string
+          description: Creador del producto
+      example:
+        _id: "bc48e9e0e2ab3e37ac0e3e32"
+        title: "Producto 1"
+        description: "Producto diseñado para ti"
+        price: 1500
+        thumbnail: "https://www.arsys.es/blog/que-son-las-imagenes-webp"
+        code: "abc123"
+        stock: 30
+        category: "imagen"
+        owner: "admin"

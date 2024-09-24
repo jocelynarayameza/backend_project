@@ -1,0 +1,13 @@
+paths:
+  /api/carts:
+    post:
+      summary: Create a cart with random id
+      tags:
+        - Carrito
+      responses:
+        "201":
+          description: Cart.
+          content:
+            application/json:
+              schema:
+                type: array

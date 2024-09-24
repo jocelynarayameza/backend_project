@@ -1,0 +1,352 @@
+[
+  {
+    "id": "6962c3aa-5f8a-403e-b664-ed2fcd952b6c",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "category": "Playstation",
+    "stock": 25
+  },
+  {
+    "id": "8f4c92c8-9675-4624-8181-ed7f2f0d5fa9",
+    "title": "producto prueba2",
+    "description": "Este es un producto prueba2",
+    "price": 250,
+    "thumbnail": "Sin imagen2",
+    "code": "abc1234",
+    "category": "Xbox",
+    "stock": 26
+  },
+  {
+    "id": "0a624b7c-2d55-4a79-8d18-743a1db2f356",
+    "title": "producto prueba3",
+    "description": "Este es un producto prueba3",
+    "price": 260,
+    "thumbnail": "Sin imagen3",
+    "code": "abc1235",
+    "category": "Nintendo",
+    "stock": 27
+  },
+  {
+    "id": "748051a1-43de-41ae-bdbf-5cf36174d7f8",
+    "title": "producto prueba4",
+    "description": "Este es un producto prueba4",
+    "price": 270,
+    "thumbnail": "Sin imagen4",
+    "code": "abc1236",
+    "category": "Steam",
+    "stock": 28
+  },
+  {
+    "id": "4e17f7d9-0463-4949-ab7d-d61d843c12a3",
+    "title": "producto prueba5",
+    "description": "Este es un producto prueba5",
+    "price": 280,
+    "thumbnail": "Sin imagen5",
+    "code": "abc1237",
+    "category": "Sega",
+    "stock": 29
+  },
+  {
+    "id": "0223df17-1075-4bc8-9699-f68438b12346",
+    "title": "producto prueba6",
+    "description": "Este es un producto prueba6",
+    "price": 290,
+    "thumbnail": "Sin imagen6",
+    "code": "abc1238",
+    "category": "PC",
+    "stock": 10
+  },
+  {
+    "id": "1385dfcb-7702-4e4a-935a-691ec78045c4",
+    "title": "producto prueba7",
+    "description": "Este es un producto prueba7",
+    "price": 300,
+    "thumbnail": "Sin imagen7",
+    "code": "abc456",
+    "category": "Nintendo",
+    "stock": 12
+  },
+  {
+    "id": "d303a058-436c-47e7-8656-000cf0fd69b4",
+    "title": "producto prueba8",
+    "description": "Este es un producto prueba8",
+    "price": 310,
+    "thumbnail": "Sin imagen8",
+    "code": "abc888",
+    "category": "Playstation",
+    "stock": 4
+  },
+  {
+    "id": "46af0eae-5e2e-46ea-8386-c6ed30c905cc",
+    "title": "producto prueba9",
+    "description": "Este es un producto prueba9",
+    "price": 320,
+    "thumbnail": "Sin imagen9",
+    "code": "abc999",
+    "category": "Sega",
+    "stock": 13
+  },
+  {
+    "id": "c561fc2a-fac6-4d0a-b886-65cc1ff0a101",
+    "title": "producto prueba10",
+    "description": "Este es un producto prueba10",
+    "price": 330,
+    "thumbnail": "Sin imagen10",
+    "code": "abc100",
+    "category": "PC",
+    "stock": 14
+  },
+  {
+    "id": "a59c4d1e-b4d1-4219-9362-b218fb4b51ad",
+    "title": "producto prueba11",
+    "description": "Este es un producto prueba11",
+    "price": 340,
+    "thumbnail": "Sin imagen11",
+    "code": "abc111",
+    "category": "Sega",
+    "stock": 15
+  },
+  {
+    "id": "4e5c4d33-3ec8-4e6f-830e-9e92f6bc2fc8",
+    "title": "producto prueba12",
+    "description": "Este es un producto prueba12",
+    "price": 350,
+    "thumbnail": "Sin imagen12",
+    "code": "abc112",
+    "category": "Xbox",
+    "stock": 16
+  },
+  {
+    "id": "cf84d73b-9253-4e4e-853e-592c48a7c67e",
+    "title": "producto prueba13",
+    "description": "Este es un producto prueba13",
+    "price": 360,
+    "thumbnail": "Sin imagen13",
+    "code": "abc113",
+    "category": "Nintendo",
+    "stock": 17
+  },
+  {
+    "id": "730ab6b9-4e29-4ef5-84dc-3ea56b54b750",
+    "title": "producto prueba14",
+    "description": "Este es un producto prueba14",
+    "price": 370,
+    "thumbnail": "Sin imagen14",
+    "code": "abc114",
+    "category": "Steam",
+    "stock": 18
+  },
+  {
+    "id": "d0a68f9a-3b8d-4a2c-a4ee-f1e923b8cfc0",
+    "title": "producto prueba15",
+    "description": "Este es un producto prueba15",
+    "price": 380,
+    "thumbnail": "Sin imagen15",
+    "code": "abc115",
+    "category": "Playstation",
+    "stock": 19
+  },
+  {
+    "id": "a6d0f7d2-97e4-4b65-83f7-2f8db60c4975",
+    "title": "producto prueba16",
+    "description": "Este es un producto prueba16",
+    "price": 390,
+    "thumbnail": "Sin imagen16",
+    "code": "abc116",
+    "category": "PC",
+    "stock": 23
+  },
+  {
+    "id": "724b193e-90bc-4c7b-96d2-6d1c9fc3e216",
+    "title": "producto prueba17",
+    "description": "Este es un producto prueba17",
+    "price": 400,
+    "thumbnail": "Sin imagen17",
+    "code": "abc117",
+    "category": "Sega",
+    "stock": 21
+  },
+  {
+    "id": "e66bda1d-fdab-4e7b-9110-6209ff9e6fbb",
+    "title": "producto prueba18",
+    "description": "Este es un producto prueba18",
+    "price": 410,
+    "thumbnail": "Sin imagen18",
+    "code": "abc118",
+    "category": "Xbox",
+    "stock": 22
+  },
+  {
+    "id": "617c657d-9621-464a-bfbf-f41a50bfe009",
+    "title": "producto prueba19",
+    "description": "Este es un producto prueba19",
+    "price": 420,
+    "thumbnail": "Sin imagen19",
+    "code": "abc119",
+    "category": "Nintendo",
+    "stock": 23
+  },
+  {
+    "id": "cf682a9e-cd4b-4c0f-a5ef-0a0295f4a49c",
+    "title": "producto prueba20",
+    "description": "Este es un producto prueba20",
+    "price": 430,
+    "thumbnail": "Sin imagen20",
+    "code": "abc120",
+    "category": "Steam",
+    "stock": 24
+  },
+  {
+    "id": "e5fcf1e8-377f-44f3-aaf7-891ef8a58dfb",
+    "title": "producto prueba21",
+    "description": "Este es un producto prueba21",
+    "price": 440,
+    "thumbnail": "Sin imagen21",
+    "code": "abc121",
+    "category": "Playstation",
+    "stock": 25
+  },
+  {
+    "id": "bfe47a9e-9c4a-4e69-90f3-5d6058d3d254",
+    "title": "producto prueba22",
+    "description": "Este es un producto prueba22",
+    "price": 450,
+    "thumbnail": "Sin imagen22",
+    "code": "abc122",
+    "category": "Xbox",
+    "stock": 26
+  },
+  {
+    "id": "f512abc6-cdab-4e0b-8732-3e4af8e65c8e",
+    "title": "producto prueba23",
+    "description": "Este es un producto prueba23",
+    "price": 460,
+    "thumbnail": "Sin imagen23",
+    "code": "abc123",
+    "category": "Nintendo",
+    "stock": 27
+  },
+  {
+    "id": "b1c1c0c5-410d-48f3-a41d-e6f7402c7f39",
+    "title": "producto prueba24",
+    "description": "Este es un producto prueba24",
+    "price": 470,
+    "thumbnail": "Sin imagen24",
+    "code": "abc124",
+    "category": "Steam",
+    "stock": 28
+  },
+  {
+    "id": "dd9db2bb-7e8c-4e02-91ab-b3ff47f5e8a5",
+    "title": "producto prueba25",
+    "description": "Este es un producto prueba25",
+    "price": 480,
+    "thumbnail": "Sin imagen25",
+    "code": "abc125",
+    "category": "Sega",
+    "stock": 29
+  },
+  {
+    "id": "b00b4b14-0c3d-4b0e-928d-c6d5e5655e54",
+    "title": "producto prueba26",
+    "description": "Este es un producto prueba26",
+    "price": 490,
+    "thumbnail": "Sin imagen26",
+    "code": "abc126",
+    "category": "PC",
+    "stock": 30
+  },
+  {
+    "id": "e37d08ff-942e-4d4e-8f65-3efabc47a531",
+    "title": "producto prueba27",
+    "description": "Este es un producto prueba27",
+    "price": 500,
+    "thumbnail": "Sin imagen27",
+    "code": "abc127",
+    "category": "Playstation",
+    "stock": 31
+  },
+  {
+    "id": "e36710bc-7c88-4d82-8c47-45bfb9a4de6d",
+    "title": "producto prueba28",
+    "description": "Este es un producto prueba28",
+    "price": 510,
+    "thumbnail": "Sin imagen28",
+    "code": "abc128",
+    "category": "Xbox",
+    "stock": 32
+  },
+  {
+    "id": "9c7f2fcb-1f6f-4dc3-abe7-e05db9d67ae7",
+    "title": "producto prueba29",
+    "description": "Este es un producto prueba29",
+    "price": 520,
+    "thumbnail": "Sin imagen29",
+    "code": "abc129",
+    "category": "Nintendo",
+    "stock": 33
+  },
+  {
+    "id": "0f6e787f-5a8b-462a-9cc5-ead935bb2fc0",
+    "title": "producto prueba30",
+    "description": "Este es un producto prueba30",
+    "price": 530,
+    "thumbnail": "Sin imagen30",
+    "code": "abc130",
+    "category": "Sega",
+    "stock": 34
+  },
+  {
+    "id": "b5e1ec35-05df-4a53-aeb5-39ff44e5a3c2",
+    "title": "producto prueba31",
+    "description": "Este es un producto prueba31",
+    "price": 540,
+    "thumbnail": "Sin imagen31",
+    "code": "abc131",
+    "category": "PC",
+    "stock": 35
+  },
+  {
+    "id": "76a7fc80-b18e-489a-a80a-c99d378d1940",
+    "title": "producto prueba32",
+    "description": "Este es un producto prueba32",
+    "price": 550,
+    "thumbnail": "Sin imagen32",
+    "code": "abc132",
+    "category": "Playstation",
+    "stock": 36
+  },
+  {
+    "id": "0ff2c0f1-f06a-45fc-82c0-fc5ffdbb89e7",
+    "title": "producto prueba33",
+    "description": "Este es un producto prueba33",
+    "price": 560,
+    "thumbnail": "Sin imagen33",
+    "code": "abc133",
+    "category": "Sega",
+    "stock": 37
+  },
+  {
+    "id": "84a90362-9c70-4997-83ad-af39d0294cf0",
+    "title": "producto prueba34",
+    "description": "Este es un producto prueba34",
+    "price": 570,
+    "thumbnail": "Sin imagen34",
+    "code": "abc134",
+    "category": "Steam",
+    "stock": 38
+  },
+  {
+    "id": "8a1422d1-59bb-4571-833a-7f47bfb24f7b",
+    "title": "producto prueba35",
+    "description": "Este es un producto prueba35",
+    "price": 580,
+    "thumbnail": "Sin imagen35",
+    "code": "abc135",
+    "category": "Nintendo",
+    "stock": 39
+  }
+]
